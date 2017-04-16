@@ -1,0 +1,33 @@
+# HTTP Cookie File for domains related to
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+#
+www.victoriamilan.co.uk	FALSE	/	FALSE	1806110591	ds_lcl	en_GB
+www.victoriamilan.co.uk	FALSE	/	FALSE	1493342591	mrcs	%7Cdirect%7C2017-03-29%7Chttps%253A%252F%252F%7E%2528www%255C.%2529%253Fvictoriamilan%255C.%2528%253F%253Ctld%253E%255Cw%252B%2529%2524%252F%7C%7C%7C%7C%7C%7C%7C1490750592%7C25fb3045-f5c8-4ea0-829b-88769daa8047
+www.victoriamilan.co.uk	FALSE	/	FALSE	1522286595	gatrc	4016352752
+www.victoriamilan.co.uk	FALSE	/	FALSE	0	viewedOuibounce	true
+m.victoriamilan.co.uk	FALSE	/	FALSE	0	PHPSESSID	bkh4asvt4usp95bp9rsmkjc7m6
+m.victoriamilan.co.uk	FALSE	/	FALSE	1806113136	ds_lcl	en_GB
+m.victoriamilan.co.uk	FALSE	/	FALSE	1493345136	mrcs	%7Cdirect%7C2017-03-29%7Chttps%253A%252F%252Fm.victoriamilan.at%252Flogin%7C%7C%7C%7C%7C%7C%7C1490753136%7C2e3b4234-d379-4566-abc7-e34909087759
+m.victoriamilan.co.uk	FALSE	/	FALSE	1522289136	gatrc	4016352752
+www.victoriamilan.co.uk	FALSE	/	FALSE	0	PHPSESSID	i1517mve50hhs1sf4ml7vjqr01
+www.victoriamilan.co.uk	FALSE	/	FALSE	1522369955	nc	1
+www.victoriamilan.co.uk	FALSE	/	FALSE	1522369955	REMEMBERME	RGlnaXNlY1xVc2VyQnVuZGxlXEVudGl0eVxVc2VyOlpHWTRNell4TW1Rek5EWmlZamRpTXpSak5tWTVNamMyWVdVMVpUUmtNekk9OjE1MjIzNjk5NTc6NjQ1Njg4ZWUyMjM0ZTUzYjY4ZDgwY2FiMDdmNDRjZWNkNTJhMzE3NzY3MWJlM2E5ZThjNDYzMjk1M2ZhYzMzNQ%3D%3D
+www.victoriamilan.co.uk	FALSE	/	FALSE	1490920357	pb5P	1
+www.victoriamilan.co.uk	FALSE	/	FALSE	1490920357	pb5K	540273
+www.victoriamilan.co.uk	FALSE	/	FALSE	1490920357	pb12P	1
+www.victoriamilan.co.uk	FALSE	/	FALSE	1490920357	pb12K	526979
+
+
+# HTTP Cookie File for domains related to sexytribu.it.
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+# Example:  wget -x --load-cookies cookies.txt http://www.sexytribu.it/home/
+#
+www.sexytribu.it	FALSE	/	FALSE	0	lc	en_GB
+www.sexytribu.it	FALSE	/	FALSE	3638318495	CAMPAIGNE.REFERER_COOKIE	http%3A%2F%2Fwww.sexytribu.it%2Flogin%2F
+www.sexytribu.it	FALSE	/	FALSE	3638318495	CAMPAIGNE.ENTRY_DATE_COOKIE	1490834849429
+www.sexytribu.it	FALSE	/	FALSE	3638318495	CAMPAIGNE.ENTRY_URI_COOKIE	%2F
+www.sexytribu.it	FALSE	/	FALSE	0	JSESSIONID	38B48966EA3AF22C0666CD692DD1E270.w0
+www.sexytribu.it	FALSE	/	FALSE	3638318495	REMEMBER_ME_HASH_COOKIE	0071642579014mnb3b86b1b1e01fbbee04e29339ebb75287
+www.sexytribu.it	FALSE	/	FALSE	3638318495	ALREADY_A_MEMBER_COOKIE	&quot;timmarus1@gmail.com&quot;
+www.sexytribu.it	FALSE	/	FALSE	0	INFFRQ.48.*	1
+www.sexytribu.it	FALSE	/	FALSE	0	INFFRQ.44.*	1
